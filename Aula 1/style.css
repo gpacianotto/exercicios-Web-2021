@@ -1,0 +1,17 @@
+.profile-picture{
+    height: 10em;
+    width: 10em;
+    border-radius: 10em;
+    float: left;
+    margin-bottom: 1%;
+    margin-right: 2%;
+}
+.justify{
+    text-align: justify;
+}
+#sidebar{
+    background-color: transparent;
+}
+a:link{
+    text-decoration: none;
+}
